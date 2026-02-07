@@ -1,4 +1,4 @@
-package com.example.itemapi.model;
+package com.example.item_api.model;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
